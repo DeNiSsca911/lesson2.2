@@ -20,7 +20,7 @@ __Давайте__ разберёмся, как это сделать.
 
 Вот [ссылка на уроки](https://university.zerocoder.ru/)
 
-[ссылка на файлик Help.md](HELP.md.py)
+[ссылка на файлик Help.md](HELP.md)
 
 ![logo](https://avatars.mds.yandex.net/i?id=292b5fb5f7e39481bc16629ae1b9afba8f191a6c21849a4e-10855339-images-thumbs&n=13)
 
